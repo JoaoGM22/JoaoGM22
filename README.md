@@ -2,6 +2,8 @@
   <img height="150" src="https://media.giphy.com/M9gbBd9nbDrOTu1Mqx/giphy.gif"/>
 </div>
 
+###
+
 <h1 align="center">Hi 👋, I'm João Gabriel</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
