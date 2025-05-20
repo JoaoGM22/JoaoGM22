@@ -4,6 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm João Gabriel</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/joaogmartins1) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:joao.gmartins.almeida@gmail.com) 
 
