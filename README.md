@@ -4,8 +4,8 @@
 <p align="center">
   <strong>Main Projects</strong><br>
   <!-- Add your featured project links below -->
-  <a href="[https://github.com/joaogvbriel/SistemaDeNotificacao](https://github.com/joaogvbriel/SistemaDeNotificacao)" target="_blank">Sistema de Notificação</a> |
-  <a href="[https://github.com/joaogvbriel/CFP](https://github.com/joaogvbriel/CFP)" target="_blank">Controle Financeiro Pessoal</a> |
+  <a href="https://github.com/joaogvbriel/SistemaDeNotificacao" target="https://github.com/joaogvbriel/SistemaDeNotificacao">Sistema de Notificação</a> |
+  <a href="https://github.com/joaogvbriel/CFP" target="https://github.com/joaogvbriel/CFP">Controle Financeiro Pessoal</a> 
 </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/joaogvbriel](https://github.com/joaogvbriel)
